@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/ODIR-5K/
+data/raw/
+data/processed/*.csv
+
+# Models
+checkpoints/
+*.pth
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
